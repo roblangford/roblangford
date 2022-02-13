@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on ...
+- Writing and documenting the implementation of various tools and practices that I'm implementing during my day to day work. 
+
+- 🌱 I’m currently learning ...
+- Ansible
+
+
+- 👯 I’m looking to collaborate on ...
+
+
+- 🤔 I’m looking for help with ...
+
+
+- 💬 Ask me about ...
+
+
+- 😄 Pronouns: ...
+
+
+- ⚡ Fun fact: ...
+
 <!--
 **roblangford/roblangford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +35,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Emojii Cheat Sheet: https://www.webfx.com/tools/emoji-cheat-sheet/
+Github Markdown : https://github.github.com/gfm/
+
+
 -->
