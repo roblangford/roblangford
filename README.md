@@ -23,15 +23,25 @@ I denote these as learnings as I don't know all of the things and can always lea
 
 <br>
 
+## :books: Study
+
+Planning on certifying a number of my skills and development in the next year.
+[AWS Certified Solutions Architect Professional](https://learn.cantrill.io/p/aws-certified-solutions-architect-professional) - I am working through Adrian Cantrills materials currently, I find Adrian's course material is written with practial application in mind, you aren't simply learning the answers or how to pass an exam. You are learning how to put the material to work in the real world.
+
+[Chef automation foundation](https://learn.chef.io/) - My current role I currently deploy Esri Inc software, to simplify this workflow Esri Inc provides Chef recipies to perform the configuration management, however you will need a foundational understanding of Chef in order to make use these. Working towards a foundation certification I will be able to better provide for my team and lessen their workload in the future.
+
+Agile and Scrum - As my role contiues to evolve I'm finding that I need to track and plan work with a number of different methodologies. Currently I over see the Operations teams to provide BAU support and maintenance. And Cloud Engieering/DevOps/Developer team to maintain our product lines and plan for feature improvements. These will require me to balance a number of competing priorities while allowing the teams to delivery independantly. Agile and Scrum may provide me with a framework to achieve this.
+
 ## :mortar_board: Education
 [LinkedIn - Profile](https://www.linkedin.com/in/robert-l-31a3a323/)
 More to follow....
 
 <br>
+
 - 💬 Ask me about ...
 
 
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 
 
 - ⚡ Fun fact: ...
