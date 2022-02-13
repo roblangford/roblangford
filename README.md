@@ -1,14 +1,17 @@
 ### Hi there 👋, I'm Rob and I've been working in tech since the 90's and always keen on automation. Hopefully this collection of things could be useful to people.
 
 <br>
+
 ## 🔭 I’m currently working on...
 Writing and documenting the implementation of various tools and practices that I'm implementing during my day to day work. I currently work as a team lead in Cloud Services, we provide Platform as a Service to host software for clients to simplify the process for GIS professionals to focus on application and tools they need.
 We perform the deployment, maintenance and upgrades to the Cloud provider, Operating Systems and Esri Software where required.
 
 <br>
+
 ## 🌱 Technical Skills
 I denote these as learnings as I don't know all of the things and can always learn new things. Its inevitable that I'll write poor code or create something quick that could use refactoring later on. Continous improvement should always lead you to review what you've done and seek to improve. With that in mind if you see something that I can improve please feel free to reach out.
 <br>
+
  ![Ansible](https://img.shields.io/badge/ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
  ![Ansible Tower](https://img.shields.io/badge/ansible_tower-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
  ![Hashicorp Terraform](https://img.shields.io/badge/terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=black)
