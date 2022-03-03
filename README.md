@@ -3,7 +3,7 @@
 <br>
 
 ## 🔭 I’m currently working on...
-Writing and documenting the implementation of various tools and practices that I'm implementing during my day to day work. I currently work as a team lead in Cloud Services, we provide Platform as a Service to host software for clients to simplify the process for GIS professionals to focus on application and tools they need.
+Writing and documenting the implementation of various tools and practices that is my day to day work. I currently work as a team lead in Cloud Services, we provide Platform as a Service to host software for clients to simplify the process for GIS professionals to focus on application and tools they need.
 We perform the deployment, maintenance and upgrades to the Cloud provider, Operating Systems and Esri Software where required.
 
 <br>
