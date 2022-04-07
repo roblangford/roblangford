@@ -3,13 +3,13 @@
 <br>
 
 ## 🔭 I’m currently working on...
-Writing and documenting the implementation of various tools and practices that is my day to day work. I currently work as a team lead in Cloud Services, we provide Platform as a Service to host software for clients to simplify the process for GIS professionals to focus on application and tools they need.
-We perform the deployment, maintenance and upgrades to the Cloud provider, Operating Systems and Esri Software where required.
+Writing and documenting the implementation of various tools and practices as part of my day to day work. I am a techincal team lead in Cloud Services, we provide Platform as a Service to host Esri software for clients, to allow GIS professionals to focus on the services, applications and tools they need.
+We perform the deployment, maintenance and upgrades to the cloud provider, Operating Systems and Esri Software as required.
 
 <br>
 
 ## 🌱 Technical Skills
-I denote these as learnings as I don't know all of the things and can always learn new things. Its inevitable that I'll write poor code or create something quick that could use refactoring later on. Continous improvement should always lead you to review what you've done and seek to improve. With that in mind if you see something that I can improve please feel free to reach out.
+I have a broad set of technical skills that I continuously develop, I don't know all of the things and always learning new things. Its inevitable that I'll write poor code or create something quick that could use refactoring later on. Continous improvement should always lead you to review what you've done and seek to improve. With that in mind if you see something that I can improve please feel free to reach out.
 <br>
 
  ![Ansible](https://img.shields.io/badge/ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
@@ -31,7 +31,9 @@ Planning on certifying a number of my skills and development in the next year.
 
 [Chef automation foundation](https://learn.chef.io/) - My current role I currently deploy Esri Inc software, to simplify this workflow Esri Inc provides Chef recipies to perform the configuration management, however you will need a foundational understanding of Chef in order to make use these. Working towards a foundation certification I will be able to better provide for my team and lessen their workload in the future.
 
-Agile and Scrum - As my role contiues to evolve I'm finding that I need to track and plan work with a number of different methodologies. Currently I over see the Operations teams to provide BAU support and maintenance. And Cloud Engieering/DevOps/Developer team to maintain our product lines and plan for feature improvements. These will require me to balance a number of competing priorities while allowing the teams to delivery independantly. Agile and Scrum may provide me with a framework to achieve this.
+Agile and Scrum - As my role contiues to evolve I'm finding that I need to track and plan work with a number of different methodologies. Currently I over-see the Operations teams to provide BAU support and maintenance. And Cloud Engieering/DevOps/Developer team to maintain our product lines and plan for feature improvements. These will require me to balance a number of competing priorities while allowing the teams to delivery independantly. Agile and Scrum may provide me with a framework to achieve this.
+
+CICD Pipelines - Infrastrucutre as code is a challenging construct, you need to architect and standardise deployments while supporting feature enhancements. Solid development processes and testing are key to ensuring that progress is made. I'll publish my works and findings as they develop.
 
 ## :mortar_board: Education
 [LinkedIn - Profile](https://www.linkedin.com/in/robert-l-31a3a323/)
