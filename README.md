@@ -36,19 +36,26 @@ Agile and Scrum - As my role contiues to evolve I'm finding that I need to track
 CICD Pipelines - Infrastrucutre as code is a challenging construct, you need to architect and standardise deployments while supporting feature enhancements. Solid development processes and testing are key to ensuring that progress is made. I'll publish my works and findings as they develop.
 
 ## :mortar_board: Education
-[LinkedIn - Profile](https://www.linkedin.com/in/robert-l-31a3a323/)
-More to follow....
+- Australian Institute of Management - New Leader - Leadership and Strategy - 2021
+- ITIL V4 Foundation - 2021
+- Hashicorp Terraform Associate - 2021
+- Amazon Web Services SysOps Administrator - Associate - 2020
+- Amazon Web Services Solution Architect - Associate - 2019
+- Zscaler Internet Access – Cloud Administrator – 2017
+- Zscaler Private Access – Cloud Administrator - 2016
+- Amazon Web Services Technical Professional - 2016
+- Microsoft Certified Training Programming with Visual Basic .NET 2737 - 2008
+- First Year of Degree in Software Engineering - 2002
+- BTEC Higher National Diploma in Manufacturing / Computer aided Engineering - 2000
+- BTEC National Diploma in Eletronic and Electrical Engineering  – 1998
 
 <br>
 
-- 💬 Ask me about ...
 
+## 😄 Pronouns: he/him
 
-- 😄 Pronouns: he/him
-
-
-- ⚡ Fun fact: ...
-
+## :link: Links:  
+<a rel="me" href="https://infosec.exchange/@RobLangford">Mastodon: RobLangford@infosec.exchange</a>
 <!--
 **roblangford/roblangford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
