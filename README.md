@@ -54,8 +54,10 @@ CICD Pipelines - Infrastrucutre as code is a challenging construct, you need to 
 
 ## 😄 Pronouns: he/him
 
-## :link: Links:  
+## :link: Links:
+<html>
 <a rel="me" href="https://infosec.exchange/@RobLangford">Mastodon: RobLangford@infosec.exchange</a>
+</html>
 <!--
 **roblangford/roblangford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
