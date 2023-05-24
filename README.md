@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Rob and I've been working in tech since the 90's and always keen on automation. I am the Cloud Services Lead, focussed on product delivery, automation, engineering and architecture. My team provides Platform as a Service to host Esri ArcGIS Enterprise software for clients, to allow GIS professionals to focus on the mapping, services, applications and they need.
-We perform the deployment, maintenance and upgrades to the cloud provider, Operating Systems and Esri Software as required.
+### Hi there 👋, I'm Rob and I've been working in tech since the 90's and always keen on automation. 
+I am the Cloud Services Lead, focussed on product delivery, development, automation, engineering and architecture. My team provides Platform as a Service to host Esri ArcGIS Enterprise software, to allow GIS professionals to focus on the mapping, services, and applications. We perform the deployment, maintenance and upgrades to the cloud provider, Operating Systems and Esri Software as required.
 
 <br>
 
