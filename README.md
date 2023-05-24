@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Rob and I've been working in tech since the 90's and always keen on automation. Hopefully this collection of things could be useful to people.
+### Hi there 👋, I'm Rob and I've been working in tech since the 90's and always keen on automation. I am the Cloud Services Lead, focussed on product delivery, automation, engineering and architecture. My team provides Platform as a Service to host Esri ArcGIS Enterprise software for clients, to allow GIS professionals to focus on the mapping, services, applications and they need.
+We perform the deployment, maintenance and upgrades to the cloud provider, Operating Systems and Esri Software as required.
 
 <br>
 
 ## 🔭 I’m currently working on...
-Writing and documenting the implementation of various tools and practices as part of my day to day work. I am a techincal team lead in Cloud Services, we provide Platform as a Service to host Esri software for clients, to allow GIS professionals to focus on the services, applications and tools they need.
-We perform the deployment, maintenance and upgrades to the cloud provider, Operating Systems and Esri Software as required.
+Writing and documenting the implementation of various tools and practices as part of my day to day work. Hoping to publish content that that helps others on their automation journey and to fill in the gaps of the Devops delivery operations. 
 
 <br>
 
@@ -14,6 +14,7 @@ I have a broad set of technical skills that I continuously develop, I don't know
 
  ![Ansible](https://img.shields.io/badge/ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
  ![Ansible Tower](https://img.shields.io/badge/ansible_tower-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
+ ![Ansible Automation](https://img.shields.io/badge/ansible_tower-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
  ![Hashicorp Terraform](https://img.shields.io/badge/terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=black)
  ![Powershell](https://img.shields.io/badge/powershell-5391fe?style=for-the-badge&logo=powershell&logoColor=black)
  ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=yellow)
@@ -29,11 +30,9 @@ Planning on certifying a number of my skills and development in the next year.
 
 [AWS Certified Solutions Architect Professional](https://learn.cantrill.io/p/aws-certified-solutions-architect-professional) - I am working through Adrian Cantrills materials currently, I find Adrian's course material is written with practial application in mind, you aren't simply learning the answers or how to pass an exam. You are learning how to put the material to work in the real world.
 
-[Chef automation foundation](https://learn.chef.io/) - My current role I currently deploy Esri Inc software, to simplify this workflow Esri Inc provides Chef recipies to perform the configuration management, however you will need a foundational understanding of Chef in order to make use these. Working towards a foundation certification I will be able to better provide for my team and lessen their workload in the future.
-
-Agile and Scrum - As my role contiues to evolve I'm finding that I need to track and plan work with a number of different methodologies. Currently I over-see the Operations teams to provide BAU support and maintenance. And Cloud Engieering/DevOps/Developer team to maintain our product lines and plan for feature improvements. These will require me to balance a number of competing priorities while allowing the teams to delivery independantly. Agile and Scrum may provide me with a framework to achieve this.
-
 CICD Pipelines - Infrastrucutre as code is a challenging construct, you need to architect and standardise deployments while supporting feature enhancements. Solid development processes and testing are key to ensuring that progress is made. I'll publish my works and findings as they develop.
+
+Event Driven Automation - As a Systems Administrator I found the need for people to take action in response to alerts or other other monitored events a shocking way to maintain services. I'm also fond of sleep, and since these events can decide to wake me up, why can't it take remediative actions, and if that fails then wake me up :) 
 
 ## :mortar_board: Education
 - Australian Institute of Management - New Leader - Leadership and Strategy - 2021
