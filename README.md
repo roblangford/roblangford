@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Rob and I've been working in tech since the 90's and always keen on automation. 
-I am the Cloud Services Lead, focussed on product delivery, development, automation, engineering and architecture. My team provides Platform as a Service to host Esri ArcGIS Enterprise software, to allow GIS professionals to focus on the mapping, services, and applications. We perform the deployment, maintenance and upgrades to the cloud provider, Operating Systems and Esri Software as required.
+I specialize in Automation, scaling, Managed and Cloud Services, focussed on product delivery, development, automation, engineering and architecture. My professional work has focussed on Platform as a Service to host specialist Enterprise software, performing the deployment, maintenance and upgrades to the solution, Operating Systems and Software as required.
+All content and information published here is my own work and research. The information is provided as is and anyone making use of this information takes responsibility for the costs and risks associated with that action.
 
 <br>
 
 ## 🔭 I’m currently working on...
-Writing and documenting the implementation of various tools and practices as part of my day to day work. Hoping to publish content that that helps others on their automation journey and to fill in the gaps of the Devops delivery operations. 
+Writing and documenting the implementation of various tools and practices learned over my career. Hoping to publish content that that helps others on their automation journey and to fill in the gaps of the Devops delivery operations. 
 
 <br>
 
@@ -20,7 +21,6 @@ I have a broad set of technical skills that I continuously develop, I don't know
  ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=yellow)
  ![AWS](https://img.shields.io/badge/aws-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
  ![Atlassian Bitbucket](https://img.shields.io/badge/bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white)
- ![Chef.io](https://img.shields.io/badge/chef.io-ffffff?style=for-the-badge&logo=chef&logoColor=f09820)
 
 <br>
 
@@ -35,6 +35,7 @@ CICD Pipelines - Infrastrucutre as code is a challenging construct, you need to 
 Event Driven Automation - As a Systems Administrator I found the need for people to take action in response to alerts or other other monitored events a shocking way to maintain services. I'm also fond of sleep, and since these events can decide to wake me up, why can't it take remediative actions, and if that fails then wake me up :) 
 
 ## :mortar_board: Education
+- Australian Institute of Management - MiniMBA
 - Australian Institute of Management - New Leader - Leadership and Strategy - 2021
 - ITIL V4 Foundation - 2021
 - Hashicorp Terraform Associate - 2021
