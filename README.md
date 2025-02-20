@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rob and I've been working in tech since the 90's and always keen on automation. 
-I specialize in Automation, scaling, Managed and Cloud Services, focussed on product delivery, development, automation, engineering and architecture. My professional work has focussed on Platform as a Service to host specialist Enterprise software, performing the deployment, maintenance and upgrades to the solution, Operating Systems and Software as required.
+I specialize in Automation, scaling, managed and cloud services, focussed on product delivery, development, automation, engineering and architecture. My professional work has focussed on Platform as a Service to host specialist Enterprise software, performing the deployment, maintenance and upgrades to the solution, Operating Systems and Software as required.
 All content and information published here is my own work and research. The information is provided as is and anyone making use of this information takes responsibility for the costs and risks associated with that action.
 
 <br>
@@ -28,14 +28,19 @@ I have a broad set of technical skills that I continuously develop, I don't know
 
 Planning on certifying a number of my skills and development in the next year.
 
-[AWS Certified Solutions Architect Professional](https://learn.cantrill.io/p/aws-certified-solutions-architect-professional) - I am working through Adrian Cantrills materials currently, I find Adrian's course material is written with practial application in mind, you aren't simply learning the answers or how to pass an exam. You are learning how to put the material to work in the real world.
+AWS Certified Solutions Architect Professional - On hold
+
+Linux Foundation Certified System Administrator (LFCS) - I'm daily driving Linux at home on all my machines, in my work I will use WSL for all development work where possible.
+
+Certified Kubernetes Security (CKS) - Enhancing my usage of Kubernetes beyond the basics and tracking the wider usage is showing that Kubernetes security is a non-negotiable to hosting a robust product.
 
 CICD Pipelines - Infrastrucutre as code is a challenging construct, you need to architect and standardise deployments while supporting feature enhancements. Solid development processes and testing are key to ensuring that progress is made. I'll publish my works and findings as they develop.
 
 Event Driven Automation - As a Systems Administrator I found the need for people to take action in response to alerts or other other monitored events a shocking way to maintain services. I'm also fond of sleep, and since these events can decide to wake me up, why can't it take remediative actions, and if that fails then wake me up :) 
 
 ## :mortar_board: Education
-- Australian Institute of Management - MiniMBA
+- Australian Institute of Management - MiniMBA - 2024
+- Linux Foundation - Certified Kubernetes Administrator (CKA) - 2024
 - Australian Institute of Management - New Leader - Leadership and Strategy - 2021
 - ITIL V4 Foundation - 2021
 - Hashicorp Terraform Associate - 2021
