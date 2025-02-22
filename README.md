@@ -21,6 +21,7 @@ I have a broad set of technical skills that I continuously develop, I don't know
  ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=yellow)
  ![AWS](https://img.shields.io/badge/aws-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
  ![Atlassian Bitbucket](https://img.shields.io/badge/bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white)
+ ![Rat Tickling](https://img.shields.io/badge/Rat_Tickling-Certified-blue)
 
 <br>
 
@@ -39,6 +40,7 @@ CICD Pipelines - Infrastrucutre as code is a challenging construct, you need to 
 Event Driven Automation - As a Systems Administrator I found the need for people to take action in response to alerts or other other monitored events a shocking way to maintain services. I'm also fond of sleep, and since these events can decide to wake me up, why can't it take remediative actions, and if that fails then wake me up :) 
 
 ## :mortar_board: Education
+- Purdue University - Rat Tickling - 2024 (https://bit.ly/RatTicklingOpenCourse)
 - Australian Institute of Management - MiniMBA - 2024
 - Linux Foundation - Certified Kubernetes Administrator (CKA) - 2024
 - Australian Institute of Management - New Leader - Leadership and Strategy - 2021
