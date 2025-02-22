@@ -40,7 +40,7 @@ CICD Pipelines - Infrastrucutre as code is a challenging construct, you need to 
 Event Driven Automation - As a Systems Administrator I found the need for people to take action in response to alerts or other other monitored events a shocking way to maintain services. I'm also fond of sleep, and since these events can decide to wake me up, why can't it take remediative actions, and if that fails then wake me up :) 
 
 ## :mortar_board: Education
-- Purdue University - Rat Tickling - 2024 (https://bit.ly/RatTicklingOpenCourse)
+- Purdue University - Rat Tickling - 2024 (https://nc3rs.org.uk/3rs-resources/rat-tickling/rat-tickling-certification)
 - Australian Institute of Management - MiniMBA - 2024
 - Linux Foundation - Certified Kubernetes Administrator (CKA) - 2024
 - Australian Institute of Management - New Leader - Leadership and Strategy - 2021
