@@ -14,13 +14,14 @@ I have a broad set of technical skills that I continuously develop, I don't know
 <br>
 
  ![Ansible](https://img.shields.io/badge/ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
- ![Ansible Tower](https://img.shields.io/badge/ansible_tower-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
  ![Ansible Automation](https://img.shields.io/badge/ansible_automation-ee0000?style=for-the-badge&logo=ansible&logoColor=black)
  ![Hashicorp Terraform](https://img.shields.io/badge/terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=black)
  ![Powershell](https://img.shields.io/badge/powershell-5391fe?style=for-the-badge&logo=powershell&logoColor=black)
  ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=yellow)
  ![AWS](https://img.shields.io/badge/aws-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
- ![Atlassian Bitbucket](https://img.shields.io/badge/bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white)
+ ![Atlassian Bitbucket](https://img.shields.io/badge/bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white)  
+
+ 
  ![Rat Tickling](https://img.shields.io/badge/Rat_Tickling-Certified-blue)
 
 <br>
